@@ -15,6 +15,8 @@ Ajoute de nouvelles options sur EcoleDirecte ! Affichez votre moyenne générale
 A Bastoon project made with ❤️</a>
 </p>
 
+[Accéder au Github](https://github.com/CustomDirecte/CustomDirecte)
+
 ----
 
 ⚠ Important :
