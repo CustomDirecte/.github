@@ -8,6 +8,7 @@ Ajoute de nouvelles options sur EcoleDirecte ! Affichez votre moyenne générale
 <a href="https://github.com/CustomDirecte/CustomDirecte"><img alt="Version" src="https://img.shields.io/badge/release-v2.0-blue"/></a>
 <a href="https://bit.ly/new-interface-for-ed-chrome"><img alt="Chrome" src="https://img.shields.io/badge/Web%20Chrome%20Store-Published-green"/></a>
 <a href="https://bit.ly/new-interface-for-ed-firefox"><img alt="Firefox" src="https://img.shields.io/badge/Firefox%20ADD--ONS-Published-green"/></a> 
+<a href="https://customdirecte.github.io/"><img alt="WebSite" src="https://img.shields.io/badge/Website%20&%20Doc-Open%20🔗-purple"/></a> 
          
 </p>
 
