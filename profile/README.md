@@ -40,11 +40,6 @@
     <img src="https://img.shields.io/badge/Page%20Extension-Open?style=for-the-badge&color=red" />
 </a>
 
-## Nos bookmarklets :
-
-<a href="https://customdirecte.github.io/#bookmarklets">
-    <img src="https://img.shields.io/badge/Page%20bookmarklets-Open?style=for-the-badge&color=red" />
-</a><br><br>
 
 > [!CAUTION]
 > + Cette extension ne collecte aucune donnée personnelle.
